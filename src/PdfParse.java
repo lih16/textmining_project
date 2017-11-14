@@ -25,7 +25,7 @@ public class PdfParse {
 			fw = new FileWriter(args[1]);
 			bw = new BufferedWriter(fw);
    	  } catch (IOException e) {
-    	    System.out.println("Please check your output folder "+e.getMessage());
+    	    System.out.println("Please dev1 test check your output folder "+e.getMessage());
       }
       FileInputStream inputstream = new FileInputStream(new File(args[0]));
       ParseContext pcontext = new ParseContext();
@@ -33,6 +33,7 @@ public class PdfParse {
       pdfparser.parse(inputstream, handler, metadata,pcontext);
       bw.write(handler.toString());
       bw.close();
+      
     
    }
 }
