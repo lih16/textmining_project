@@ -1,1 +1,3 @@
+Run the following command to convert PDF to TXT.
 
+Java -jar PDF2TXT.jar 17954289.pdf 17954289.txt
