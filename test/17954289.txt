@@ -1,0 +1,1669 @@
+Hypertension and Acid-Base/Electrolyte Disorders
+R ide-S
+e: P
+1
+Hye
+o Lim
+Jin S
+A3 mu
+Gitelm
+t tried in
+patien
+study,
+for the
+unit of
+e fract
+st hum
+istent
+3 gene
+d NCC
+ned in
+t with s
+f muta
+CC ex
+nosis
+al Kidn
+INDEX WORDS: Gitelman syndrome; sodium-chloride cotransporter; immunohistochemistry; mutation
+G
+ize
+ma
+by
+en
+(N
+lut
+mu
+Ho
+the
+ye
+of
+de
+an
+stu
+qu
+est
+tie
+dia
+of
+the
+Amanalysis; urinary sodium-chloride cotransporter.
+itelman syndrome (GS) is an autosomal
+recessive renal tubular disorder character-
+d by hypokalemic metabolic alkalosis, hypo-
+gnesemia, and hypocalciuria.
+1
+GS is caused
+inactivating mutations in the SLC12A3 gene
+coding the thiazide-sensitive sodium-chloride
+a-Cl) cotransporter (NCC) of the distal convo-
+ed tubule (DCT).
+2,3
+To date, more than 100
+tations in the SLC12A3 gene were identified.
+4
+wever, the relationship between mutations and
+molecular mechanism of the disease was not
+t identified.
+Before the establishment of mutation analysis
+the SLC12A3 gene, the diagnosis of GS was
+pendent on clinical and biochemical features
+d was supplemented by results of clearance
+dies using thiazide and furosemide in se-
+ence, which was cumbersome and had no
+ablished cutoff values.
+5
+Genotyping all pa-
+nts with suspected GS is the best way to
+gnose the disease, but is impractical because
+laboratory unavailability in most hospitals at
+present time.
+6,7
+Moreover, a genetic abnormal-
+ity other than SLC12A3 gene mutations may
+cause similar clinical features.
+8
+An unusual de-
+gree of phenotypic variation is not uncommon in
+patients with GS.
+9-11
+These phenotypic varia-
+tions can be explained by the different mecha-
+nisms by which mutations reduce or abolish
+From the
+1
+Department of Internal Medicine, Seoul Na-
+tional University College of Medicine and Clinical Research
+Institute, Seoul National University Hospital;
+2
+Department
+of Anatomy, Catholic University College of Medicine; and
+3
+Department of Pediatrics, Seoul National University Col-
+lege of Medicine, Seoul, Korea.
+Received March 13, 2007. Accepted in revised form July
+31, 2007. Originally published online as doi:
+10.1053/j.ajkd.2007.07.022 on September 27, 2007.
+K.W.J. and J.W.L. contributed equally to this work.
+Address correspondence to Jin Suk Han, MD, PhD, De-
+partment of Internal Medicine, Seoul National University,
+Clinical Research Institute, Seoul National University Hos-
+pital, 28, Yongun-dong, Chongno-gu, Seoul, 110-744, Repub-
+lic of Korea. E-mail: jshan@snu.ac.kr
+© 2007 by the National Kidney Foundation, Inc.
+0272-6386/07/5005-0010$32.00/0
+doi:10.1053/j.ajkd.2007.07.022
+erican Journal of Kidney Diseases, Vol 50, No 5 (November), 2007: pp 765-773 765educed Urinary Excretion of Thiaz
+Gitelman Syndrom
+Kwon Wook Joo, MD,
+1
+Jay Wook Lee, MD,
+Un Sil Jeon, MD,
+1
+Yun Kyu Oh, MD,
+1
+Chun So
+Hae Il Cheong, MD,
+3
+and
+Background: The relationship between SLC12
+cotransporter (NCC) expression in patients with
+Detection of urinary thiazide-sensitive NCC was no
+Study Design: Case series.
+Setting & Participants: 6 patients with GS and 1
+Outcomes & Measurements: Renal clearance
+polymerase chain reaction and direct sequencing
+staining for NCC, Na-K-2Cl-cotransporter,  1-sub
+renal biopsy specimens were performed. Membran
+tial centrifugation and probed with antibodies again
+Results: Results of clearance studies were cons
+chloride reabsorption with only furosemide. SLC12A
+Immunohistochemistry showed markedly decrease
+whereas expression of other transporters remai
+decreased in patients with GS, but not in the patien
+Limitations: Small number of patients and lack o
+Conclusions: There were no relations between N
+urinary NCC might be helpful for the differential diag
+Am J Kidney Dis 50:765-773. © 2007 by the Nationensitive Na-Cl Cotransporter in
+reliminary Data
+Ryoun Jang, MD,
+1
+Nam Ju Heo, MD,
+1
+, MD,
+1
+Ki Young Na, MD,
+1
+Jin Kim, MD,
+2
+uk Han, MD, PhD
+1
+tations and actual sodium-chloride (Na-Cl)
+an syndrome (GS) was rarely evaluated.
+patients with GS.
+t with surreptitious vomiting.
+mutation analysis using reverse-transcription
+SLC12A3 gene, and immunohistochemical
+Na
+ 
+,K
+ 
+-ATPase, and calbindin-D
+28K
+of the
+ions of urine were obtained by using differen-
+an NCC and aquaporin 2.
+with GS, showing decreased distal fractional
+mutations were found in all patients with GS.
+expression in the distal convoluted tubule,
+tact. Urinary NCC excretion was markedly
+urreptitious vomiting.
+tion analysis of CLCNKB.
+pression and types of mutations. Detection of
+of GS.
+ey Foundation, Inc.
+
+tra
+4,12
+on
+the
+SL
+tic
+un
+nis
+ac
+su
+diu
+me
+po
+sp
+de
+mu
+fro
+rol
+dif
+we
+ex
+tio
+pa
+bio
+Su
+S
+fea
+sur
+con
+vom
+GS
+rela
+per
+lax
+hyp
+una
+ics
+blo
+uri
+Re
+2C
+AT
+try
+sur
+A
+bef
+app
+tion
+Cle
+R
+pro
+mL
+intr
+mL
+eve
+ma
+ing
+uri
+ma
+the
+adm
+tes
+pat
+loa
+Cle
+ma
+fre
+chl
+tion
+CC
+osm
+uri
+and
+per
+Mu
+F
+DN
+rev
+pin
+the
+by
+dir
+cov
+for
+nes
+ana
+ing
+con
+the
+pri
+firs
+CA
+GT
+ant
+sec
+CA
+GA
+ant
+5=-
+TC
+CC
+AA
+Im
+R
+und
+lys
+dra
+sec
+we
+ano
+Joo et al766nsporter activity and might be dependent
+the degree or pattern of NCC expression in
+DCT. Therefore, mutation analysis of the
+C12A3 gene might not be the ultimate diagnos-
+method for GS. For a definite diagnosis and
+derstanding of the pathophysiologic mecha-
+m of GS, it is necessary to investigate the
+tual expression of NCC in patients’ renal tis-
+es.
+Recently, it was shown that apical renal so-
+m transporters could be detected in urine by
+ans of immunoblot, and these urinary trans-
+rters might be used as a biomarker for a
+ecific disease.
+13,14
+The aims of this study are to
+lineate the relationship between SLC12A3 gene
+tation and NCC expression in renal tissues
+m patients with GS and evaluate the potential
+e of urinary NCC as a biomarker for the
+ferential diagnosis of GS. In the present study,
+investigated relations among NCC protein
+pression in DCTs of renal tissue, urinary excre-
+n of NCC, and SLC12A3 gene mutations in
+tients with GS diagnosed by using clinical and
+chemical characteristics.
+METHODS
+bjects
+ix patients with a diagnosis of GS by means of clinical
+tures and biochemical parameters and 1 patient with
+reptitious vomiting were enrolled in this study. The
+trol patient with surreptitious vomiting flatly denied his
+iting or laxative use at first. Therefore, a misdiagnosis of
+was made despite low urinary chloride excretion in
+tion to urinary sodium excretion. During the follow-up
+iod, he admitted that he vomited regularly and used
+atives for fear of obesity. A family history of salt craving,
+otension, nocturia, polyuria, or paralysis/paresthesia was
+vailable for all patients. Clearance studies using diuret-
+, mutation analysis for the SLC12A3 gene, and immuno-
+t for urinary NCC were performed. Western blot for
+nary NCC also was performed in 8 healthy volunteers.
+nal tissues from subjects were examined for NCC, Na-K-
+l-cotransporter (NKCC2),  1-subunit of Na
+ 
+,K
+ 
+-
+Pase, and calbindin-D
+28K
+by using immunohistochemis-
+and compared with that from a patient who underwent
+gical nephrectomy because of renal cell carcinoma.
+ll study participants gave their written informed consent
+ore enrollment in the study. The study protocol was
+roved by the Institutional Review Board of Seoul Na-
+al University Hospital.
+arance Studies
+enal clearance studies were performed according to the
+tocol described elsewhere.
+5
+Patients drank water (20
+/kg of body weight) after an overnight fast, followed byavenous infusion of 0.45% saline solution at a rate of 40
+/h. Urine volume and urine osmolality were checked
+ry 20 minutes by using a cryoscopic osmometer (Osmo-
+t 030-D; Gonotec, Berlin, Germany). Upon every void-
+, patients drank additional water, in an amount equal to
+ne volume plus 20 mL. When urine flow reached its
+ximal level, plasma and urine samples were obtained. For
+thiazide-loading test, 100 mg of hydrochlorothiazide was
+inistered orally to patients. For the loop diuretic loading
+t, 40 mg of furosemide was administered intravenously to
+ients. Water-loading, thiazide-loading, and furosemide-
+ding tests were performed in sequence on the same day.
+arance data were obtained when urine flow reached
+ximal. Clearances were calculated as follows: maximal
+e-water clearance (CH
+2
+O)   (1   Uosm/Posm)   V;
+oride clearance (CCl)   UCl   V/PCl; and distal frac-
+al chloride reabsorption (DFCR)   CH
+2
+O/(CH
+2
+O  
+l), where Uosm is urine osmolality, Posm is plasma
+olality, V is urinary flow (milliliters per minute), UCl is
+nary chloride concentration (milliequivalents per liter),
+PCl is plasma chloride concentration (milliequivalents
+liter).
+tation Analysis
+or SLC12A3 gene analysis, both RNA and genomic
+A were isolated from peripheral-blood cells. RNA was
+erse transcribed to complementary DNA, and 4 overlap-
+g complementary DNA fragments covering most parts of
+coding sequences of the SLC12A3 gene were amplified
+using nested polymerase chain reactions (PCRs) and
+ectly sequenced. For exons 1, 2, and 3, which were not
+ered by this nested reverse-transcriptase (RT)-PCR, and
+any fragments that failed to get good results by using
+ted RT-PCR, the corresponding exon sequences were
+lyzed by using genomic DNA PCR and direct sequenc-
+. Mutations detected using nested RT-PCR also were
+firmed through direct sequencing of the PCR product of
+corresponding exon from genomic DNA. Sequences of
+mers used in the nested RT-PCR are as follows: for
+t-round PCR; sense 5=-AGCACCTTCTGCATGCG-
+C-3= and antisense 5=-GATGGCGTAGGCCAGCAG-
+A-3=, sense 5=-GACCAGCTGTACCCACTGATC-3= and
+isense 5=-AGAGCTGTGGACAGGGATGTC-3=; for
+ond-round PCR; sense 5=-CGTTGCATGCTCAA-
+TTTG-3= and antisense 5=-GTCCAGAAAATGGCCAT-
+G-3=, sense 5=-TTGTCCAGAACTTGGTGCCT-3= and
+isense 5=-GGCTCCTTGTTCTTGCCATA-3=, sense
+TACCCACTGATCGGCTTCTT-3=, and antisense 5=-GCA-
+ATCTTGGACACGTTG-3=, sense 5=-TCCTCCATGATG-
+TTTGAG-3= and antisense 5=-ACAGGGATGTCA-
+GCCTGG-3=.
+munohistochemistry
+enal tissue from patients with GS and the patient who
+erwent radical nephrectomy was preserved in 2% periodate-
+ine-paraformaldehyde solution. Fixed tissues were dehy-
+ted and embedded in polyester wax, cut into 4- m thick
+tions, and mounted on gelatin-coated glass slides. Sections
+re dewaxed with xylene and ethanol and treated with meth-
+lic hydrogen peroxide for 30 minutes after rinsing with tap
+
+wa
+we
+Tri
+per
+goa
+15
+4°C
+NK
+nol
+ies
+inc
+and
+imm
+tem
+400
+tem
+buf
+stra
+wa
+bal
+Im
+in
+F
+(5
+col
+fluo
+the
+4°C
+tan
+ultr
+wa
+sus
+suc
+tin,
+and
+sam
+res
+the
+buf
+mo
+ddH
+at 
+pho
+T
+sam
+ele
+[AQ
+usi
+He
+fer
+bra
+80
+mm
+ute
+dilu
+ant
+inc
+gat
+lute
+by
+Am
+for
+Pha
+Cl
+los
+ste
+ciu
+hy
+pa
+an
+we
+lev
+no
+de
+tio
+fea
+uri
+hy
+Re
+jec
+ca
+tio
+aff
+mi
+tho
+A,
+tio
+pa
+os
+an
+ad
+wi
+tie
+vo
+ity
+Mu
+we
+M
+A
+(p.
+fou
+wa
+wa
+Urinary NCC in Gitelman Syndrome 767ter. Before incubation with primary antibodies, sections
+re incubated in phosphate-buffered saline containing 0.5%
+ton X-100 (Bio-Rad, Hercules, CA) for 15 minutes for
+meabilization. Sections then were blocked with 6% normal
+t plasma (S-1000; Vector Laboratory, Burlingame, CA) for
+minutes. Subsequently, sections were incubated overnight at
+with rabbit polyclonal antibodies to the human NCC,
+15
+CC2,
+15
+and Na
+ 
+,K
+ 
+-ATPase  1 subunit (Upstate Biotech-
+ogy, Lake Placid, NY) and with rabbit monoclonal antibod-
+to calbindin-D
+28k
+(Swant, Bellinzona, Switzerland). After
+ubation, sections were rinsed with phosphate-buffered saline
+incubated for 30 minutes in biotinylated goat antirabbit
+unoglobulin G (BA-1000; Vector Laboratory) at room
+perature. A peroxidase standard Vectastain ABC kit (PK-
+0; Vector Laboratory) was added for 60 minutes at room
+perature. Sections then were washed with phosphate-
+fered saline and incubated in a 3,3=-diaminobenzidine sub-
+te kit (SK-4100; Vector Laboratory). Hematoxylin staining
+s used as a counterstain. Slides were mounted with Canadian
+sam.
+munoblotting for NCC and Aquaporin 2
+Urine
+resh morning urine from patients and 8 healthy volunteers
+men, 3 women) was collected in a bottle that contained a
+lection solution (thymol, 2.5 mL of phenylmethylsulfonyl
+ride, 50 Lof leupeptin/50 mLof sample).After measuring
+volume, the sample was spun at 1,300g for 15 minutes at
+to remove cells, nuclei, and large fragments. The superna-
+t was then transferred to six 8-mL high-speed tubes for
+acentrifuge (200,000g for 1 hour at 4°C). Urine creatinine
+s measured in this supernatant. The resultant pellets were
+pended with 1 mL of isolation solution (0.25 mol/L of
+rose, 10 mmol/L of triethanolamine, 8.5  mol/L of leupep-
+and 1 mmol/L of phenylmethylsulfonyl fluoride, pH 7.6)
+pooled together. Ultracentrifugation was repeated with this
+ple under the conditions described previously. Pellets were
+uspended with 0.4 mL of isolation solution. Samples were
+n stabilized by adding 0.1 mL of 5   Laemmli sample
+fer (sodium dodecyl sulfate, 3.75 g; glycerol; 15 mL; 1
+l/L of Tris, pH 6.8, 2.5 mL, bromophenol blue dab,
+2
+O to 50 mL), heated to 60°C for 10 minutes, and stored
+80°C until analysis. Just before being loaded for electro-
+resis, samples were warmed at 37°C.
+wo milligrams of urine creatinine equivalent of each
+ple was loaded into each lane of gel. Samples were
+ctrophoresed in 8% (for NCC) and 12% (for aquaporin-2
+P2]) polyacrylamide-sodium dodecyl sulfate minigels
+ng a Mini Protean III electrophoresis unit (Bio-Rad,
+rcules, CA). For immunoblotting, proteins were trans-
+red electrophoretically from gels to nitrocellulose mem-
+ne (Bio-Rad). After being blocked with 5% skim milk in
+mmol/L of Na
+2
+HPO
+4
+, 20 mmol/L of NaH
+2
+PO
+4
+, 100
+ol/L of NaCl, and 0.1% Tween-20, pH 7.5 for 30 min-
+s, membranes were probed overnight at 4°C with 1:2,000
+tion of rabbit antihuman NCC antibody
+15
+and 1:1,000
+ihuman AQP2 antibody.
+16
+Membranes were washed and
+ubated with goat antirabbit immunoglobulin G conju-
+ed to horseradish peroxidase (Pierce, Rockford, IL) di-
+d to 1:3,000. Antigen-antibody reactions were visualizedusing enhanced chemiluminescence (ECL RPN 2106;
+ersham Pharmacia Biotech, Buckinghamshire, UK) be-
+e being exposed to X-ray film (Hyperfilm; Amersham
+rmacia Biotech).
+RESULTS
+inical and Biochemical Data
+All subjects had hypokalemia, metabolic alka-
+is, hypereninemia, and increased plasma aldo-
+rone levels. All except patient B had hypocal-
+ria, and all except patients B and C had
+pomagnesemia. Serum magnesium levels in
+tient B and C were 1.6 mg/dL (0.66 mmol/L)
+d 1.5 mg/dL (0.62 mmol/L), respectively; these
+re in the low-normal range. The magnesium
+el of the control patient (patient G) was within
+rmal range, and urinary chloride excretion was
+creased compared with urinary sodium excre-
+n. The diagnosis of GS was favored by clinical
+tures, patient age, the absence of overt poly-
+a, and the presence of hypocalciuria and/or
+pomagnesemia in patients A to F (Table 1).
+nal Clearance Study
+Chloride clearance was increased in all sub-
+ts after furosemide loading. DFCR signifi-
+ntly decreased after furosemide administra-
+n. However, these 2 parameters were not
+ected significantly by hydrochlorothiazide ad-
+nistration (Table 2) in patients with GS. Al-
+ugh DFCR was slightly decreased in patients
+B, and F after hydrochlorothiazide administra-
+n, the decrease was less than that in the control
+tient. In the control patient, minimal urine
+molality was less than that of patients with GS,
+d change in DFCR after hydrochlorothiazide
+ministration was greater than that of patients
+th GS. However, discrimination between pa-
+nts with GS and the patient with surreptitious
+miting was not clear because of the unavailabil-
+of a cutoff value.
+tation Analysis
+Six different sequence variants in SLC12A3
+re detected in 6 patients (patients A to F).
+issense point mutation was detected in patients
+(p.Ser976Phe), B (p.Thr180Lys), and E
+Asp848Asn and p.Ile988Thr). p.Gln95 del was
+nd in patients C and F, and c.2666 1G del
+s identified in patient D. Only 1 mutant allele
+s detected in 3 of 6 patients (patients B, D, and
+
+F)
+we
+in
+pa
+Table 1. Initial Presentation and Laboratory Data for Subjects
+Ag
+S
+Se
+S
+P
+C
+T
+C
+P
+M
+P
+P
+Uri
+S
+P 7
+C 8
+C 3
+Pla 7.50
+Blo 0/60
+N g. To c
+pot q/L to
+mm y 0.24
+ma
+ald
+A
+*
+Min
+Ch
+B
+F
+T
+Dis
+B
+F
+T
+N
+A
+*
+†
+Joo et al768. p.Ser976Phe, p.Asp848Asn, and p.Ile988Thr
+re novel mutations for SLC12A3. No mutation
+the SLC12A3 gene was detected in the control
+tient.
+Patients
+A* B
+e (y) 16 19 1
+x FM
+rum
+odium (mEq/L) 135 136 14
+otassium (mEq/L) 2.8 3.2
+hloride (mEq/L) 93 90 9
+otal carbon dioxide (mEq/L) 33 31 3
+alcium (mg/dL) 10.7 10.4
+hosphorus (mg/dL) 4.3 3.8
+agnesium (mEq/L) 1.4 1.6
+lasma renin activity (ng/mL/h) 32.8 117 1
+lasma aldosterone (ng/dL) 40.3 90.6 8
+ne
+odium (mEq/d) 210 172 18
+otassium (mEq/d) 93 226 5
+hloride (mEq/d) 211 363 22
+alcium (mg/d) 8 96 6
+sma pH 7.42 NC
+od pressure (mm Hg) 110/80 120/70 9
+ote: Control patient is the patient with surreptitious vomitin
+assium in mEq/L to mmol/L, multiply by 1; chloride in mE
+ol/L, multiply by 1; calcium in mg/dL to mmol/L, multiply b
+gnesium in mg/dL to mmol/L, multiply by 0.4114; plasma r
+osterone in ng/dL to nmol/L, multiply by 0.02774.
+bbreviation: NC, not checked.
+Previously reported.
+28
+Table 2. Results of Renal C
+A*
+imal urine osmolality (mOsm/kg) 71 14
+loride clearance (mL/min/100 mL GFR)
+asal 0.8
+urosemide loading 8.6 1
+hiazide loading 1.1
+tal fractional chloride reabsorption (%)
+asal 86.1 4
+urosemide loading 9.7 1
+hiazide loading 81.4 3
+ote: Control patient is the patient with surreptitious vomitin
+bbreviations: GFR, glomerular filtration rate; NA, not avail
+Previously reported.
+28
+Milliliters per minute.munohistochemistry
+In the normal tissue, NCC immunohistochem-
+ry showed distinct labeling along the apical
+mbrane of the DCT (Fig 1-H1). However,
+elman Syndrome
+Control
+Patient
+Reference
+ValuesD E* F G
+18 24 34 22
+MFMM
+137 135 133 143 135-145
+3.0 1.9 2.9 3.0 3.5-5.5
+100 94 90 91 98-110
+33 29 30 48 24-31
+9.2 9.8 10.2 9.3 8.8-10.5
+4.1 3.8 3.2 3.4 2.5-4.5
+1.4 1.1 1.4 1.8 1.5-2.5
+43.8 14.7 10.4 7.8 1.0-2.5
+10.4 14.7 19.9 20.2 5.0-19.4
+180 209 218 125
+38 33 78 32
+154 170 181 65
+19 14 17 69 70-180
+7.60 7.54 7.47 NC
+110/60 110/70 110/70 110/70
+onvert serum sodium in mEq/L to mmol/L, multiply by 1;
+mmol/L, multiply by 1; total carbon dioxide in mEq/L to
+95; phosphate in mg/dL to mmol/L, multiply by 0.3229;
+tivity in ng/mL/h to ng/(Lxs), multiply by 0.2778; plasma
+ce Study of Subjects
+ents With Gitelman Syndrome
+Control
+Patient
+C D E* F G
+93 77 NA 98 53
+2.7 2.0 2.3† 2.2 1.0
+19.7 25.2 11.6† 21.8 14.4
+NA 2.6 1.9† 5.4 4.4
+62.6 85.2 65.0 65.7 85.7
+6.5 35.3 14.0 21.7 10.8
+NA 85.3 68.0 58.4 61.6
+onvert GFR in mL/min to mL/s, multiply by 0.01667.
+ue to missed data).Im
+ist
+me
+enin ac
+learan
+Pati
+B
+0
+3.0
+1.6
+8.1
+8.2
+4.7
+9.4
+g. To c
+able (dWith Git
+C
+8
+M
+2
+2.9
+7
+5
+9.7
+4.4
+1.5
+1.0
+0.8
+6
+
+ren
+of
+1).
+sen
+sta
+(F
+sur
+sta
+ap
+Im
+bra
+1-B
+         
+H1
+A1
+*
+F
+mis
+sod
+tra
+cen
+tra
+K
+ 
+cal
+tiss
+hea
+imm
+hea
+dis
+cal
+vol
+F1)
+pat
+dro
+NC
+for
+nos
+cor
+(TA
+sub
+ndi
+bul
+the
+ous
+Urinary NCC in Gitelman Syndrome 769al tissues from patients with GS were devoid
+intact NCC immunostaining in the DCT (Fig
+In patient A, NCC immunostaining was ab-
+t in the apical membrane of the DCT and faint
+ining was observed diffusely in the cytoplasm
+ig 1-A1). In patient F and the patient with
+reptitious vomiting (patient G), NCC immuno-
+ining was moderately decreased along the
+ical membrane of the DCT (Fig 1-F1 and G1).
+munoreactivity to NCC in the apical mem-
+ne was equivocal in patients B, D, and E (Fig
+1, D1, and E1). In patient C, no discernible
+NCC  
+Control
+Patient A
+*
+Patient B
+Patient C
+Patient D
+Patient E
+*
+Patient F
+Patient G
+DCT
+DCT
+DCT
+DCT
+DCT
+DCT
+DCT
+DCT
+igure 1. Immunohistoche-
+try of the thiazide-sensitive
+ium-chloride (Na-Cl) co-
+nsporter (NCC), thick as-
+ding limb Na-K-2Cl co-
+nsporter (NKCC2), Na
+ 
+,
+-ATPase  1 subunit, and
+bindin-D
+28K
+in renal biopsy
+ue from subjects and the
+lthy control. Although NCC
+unohistochemistry in the
+lthy control showed (A1)
+tinct labeling along the api-
+membrane of the distal con-
+uted tubule (DCT), (A1 to
+results of renal tissues from
+ients with Gitelman syn-
+me were devoid of intact
+C immunostaining (see text
+details). Conversely, immu-
+taining for NKCC2 in the
+tical thick ascending limb
+L), Na
+ 
+,K
+ 
+-ATPase  1
+unit in the DCT, and calbi-
+n-D
+28K
+in the connecting tu-
+e (CNT) were intact in both
+control and patients. *Previ-
+ly reported.
+20C immunostaining was found (Fig 1-C1). The
+ttern of abnormal NCC immunoreactivity in
+DCTwas not associated with SLC12A3 geno-
+e. Conversely, immunostaining for NKCC2,
+ 
+,K
+ 
+-ATPase  1 subunit, and calbindin-
+8K
+were relatively well preserved in the respec-
+e renal tubular segments (Fig 1).
+munoblotting
+Figure 2 shows urine immunoblot for NCC in
+althy volunteers (Fig 2A) and subjects (Fig
+    NKCC2      Na/K ATPase Calbindin-D
+28K
+H2
+TAL
+H3
+DCT
+H4
+CNT
+A2
+*
+TAL
+A3
+*
+DCT
+A4
+*
+CNT
+B2
+TAL
+B3
+DCT
+B4
+CNT
+C2
+TAL
+C3
+DCT
+C4
+CNT
+CNT
+D2
+TAL
+D3
+DCT
+D4
+CNT
+E2
+*
+TAL
+TAL
+E3
+*
+DCT
+E4
+*
+CNT
+F2
+TAL
+TAL
+F3
+DCT
+F4
+CNT
+G2
+TAL
+TAL
+G3
+DCT
+G4
+CNTNC
+pa
+the
+typ
+Na
+D
+2
+tiv
+Im
+he
+B1
+C1
+D1
+E1
+*
+F1
+G1
+
+2B
+low
+we
+Th
+sig
+we
+NC
+sam
+NC
+wa
+of
+co
+mu
+tee
+we
+wa
+Joo et al770). Although the pattern was not uniform,
+er and higher molecular-weight band signals
+re observed distinctly in healthy volunteers.
+ese bands were considered to represent NCC
+nals, and the higher molecular-weight bands
+re believed to be protein complexes.
+13,14
+No
+C band signal was detectable in urine
+ples from patients A and D. The density of
+C bands observed in patients B, C, E, and F
+s markedly decreased in comparison to that
+the healthy control. NCC band density in the
+ntrol patient with surreptitious vomiting was
+ch more intense than that of healthy volun-
+rs. Although differences in band densities
+re seen among samples, urine AQP2 signal
+s clearly observed in all subjects (Fig 2B).DISCUSSION
+We described NCC expression in renal tissues
+d urinary NCC excretion in 6 patients with GS
+d 1 patient with surreptitious vomiting. NCC
+pression in the DCT was markedly decreased,
+d urinary NCC excretion was also markedly
+creased in patients with GS.
+There is increasing evidence for a phenotypic
+erlap between GS and Bartter syndrome
+8,10
+d for relatively common phenotypic variations
+patients with GS.
+9,17,18
+These variations could
+explained in part by differences in expression
+d function of NCC protein according to the
+derlying mutations.
+4,12,19,20
+Six different se-
+ence variations in SLC12A3were detected in 6
+Figure 2. Urine immuno-
+blot for sodium-chloride (Na-
+Cl) cotransporter (NCC) and
+aquaporin 2 (AQP2). (A) Urine
+from healthy volunteers showed
+positive NCC signals at 160 kd
+and higher molecular-weight
+range when probed with anti-
+NCC antibody. (B) Urine immu-
+noblot for NCC and AQP2 in
+urine from subjects and 1 of
+the healthy volunteers who
+served as a positive control.
+Urine samples from patients A
+and D were negative for NCC,
+whereas patients B, C, E, and
+F showed weak to moderate
+NCC signals. Note the strong
+NCC signal in subject G (pa-
+tient with surreptitious vomit-
+ing; see text for details). For
+AQP2, 29-kd and higher mo-
+lecular-weight bands are seen
+clearly in all subjects, suggest-
+ing no abnormality in AQP2 ex-
+pression in the collecting duct.an
+an
+ex
+an
+de
+ov
+an
+in
+be
+an
+un
+qu
+
+pa
+we
+(15
+de
+ine
+me
+the
+ex
+fec
+pro
+SI
+p.S
+Po
+an
+wh
+tio
+the
+rul
+ute
+sti
+ge
+sh
+ph
+mu
+ca
+tha
+de
+od
+ab
+Ho
+of
+he
+rat
+go
+ide
+pre
+de
+tec
+ex
+de
+reg
+ate
+An
+vo
+sis
+stu
+mu
+ity
+pro
+25
+ing
+wi
+bra
+the
+rem
+the
+tio
+to
+act
+ap
+(pa
+an
+su
+me
+NC
+of
+in
+of
+fun
+ing
+req
+mu
+pre
+in
+24
+cre
+an
+sit
+of
+we
+siu
+co
+ch
+na
+ing
+tis
+typ
+Th
+stu
+to
+ou
+tie
+ad
+go
+ho
+for
+no
+Urinary NCC in Gitelman Syndrome 771tients (patients A to F). All 6 sequence variants
+re not detected in 75 control Korean subjects
+0 alleles), except for p.Thr180Lys, which was
+tected in 1 control subject.We could not exam-
+the frequencies of these variants in family
+mbers of probands.
+Because we could not test functional effects of
+4 missense mutants by using a heterologous
+pression system, we analyzed biochemical ef-
+ts of the 4 mutations by using 2 computer
+grams, SIFT and PolyPhen.
+21,22
+Both the
+FT and Polyphen programs suggested that
+er976Phe may affect protein function. The
+lyphen program predicts both p.Asp848Asn
+d p.Ile988Thr to be “possibly damaging,”
+ereas the SIFT program predicts this substitu-
+n would be tolerated by the NCC protein. On
+basis of the available information, we cannot
+e out the possibility that these variants contrib-
+to disease susceptibility. A p.Thr180Lys sub-
+tution was reported first as a possibly patho-
+nic mutation.
+7
+However, a later functional study
+owed that this variation was a polymor-
+ism.
+23
+Considering that the patient with this
+tation (patient B) had clinical and biochemi-
+l features compatible with GS, it is possible
+t we did not find mutations that could not be
+tected by using current mutation analysis meth-
+s. The intronic mutation in patient D can cause
+normal splicing and should be pathogenic.
+wever, we cannot predict the possible effect
+p.Gln95del on protein function at the moment.
+Up to 40% of patients are found to have
+terozygous mutations in the SLC12A3 gene,
+her than compound heterozygous or homozy-
+us mutations.
+4,24
+Only 1 mutant allele was
+ntified in 3 of the 6 patients, compatible with
+vious reports.
+4,24
+Several explanations for this
+ficit of detection are possible. Because of the
+hnical limitation of mutation analysis, only
+on and exon-boundary mutations could be
+tected, and mutations within promoter regions,
+ulatory 5=-untranslated regions, 3=-polyadenyl-
+d tails, and deep introns could not be assessed.
+other gene, such as CLCNKB, may be in-
+lved in GS. Unavailability of mutation analy-
+of CLCNKB is one of the limitations of this
+dy.
+There could be 5 mechanisms by which
+tations reduce or abolish transporter activ-
+.
+4,12,19,20,25,26
+A mutation could: (1) impairtein synthesis, (2) impair protein process-
+,
+12,20
+(3) interfere with insertion of an other-
+se functional protein into the plasma mem-
+ne,
+12,19
+(4) modify functional properties of
+cotransporter,
+26
+and (5) accelerate protein
+oval or degradation. All mechanisms except
+fifth were already mentioned in GS.
+Some missense mutations show partial func-
+n, whereas some mutations in SLC12A3 lead
+complete loss of expression and cotransporter
+ivity.
+12,20,25
+Immunoreactivity to NCC at the
+ical membrane of the DCT was not observed
+tientsA and C) or decreased (patients B, D, E,
+d F). From these immunohistochemistry re-
+lts, we could speculate that the second or third
+chanism might be the cause of decreased
+C expression. Discrepancies between results
+urine immunoblot and immunohistochemistry
+patients A and C could exclude the possibility
+the first mechanism in our patients. However,
+ctional analysis of the expressed mutants us-
+a heterologous expression system should be
+uired to confirm the mechanisms by which
+tations regulate transporter activity and/or ex-
+ssion.
+Serum magnesium levels were not decreased
+2 of the 6 patients (patients B and C), and
+-hour urinary calcium excretion was not de-
+ased in 1 patient (patient B). Hypocalciuria
+d hypomagnesemia are not always prerequi-
+e to GS and might change during the life cycle
+a given patient.
+17,27
+Moreover, the 2 patients
+re being administered potassium and magne-
+m supplements at the time of study, which
+uld influence results. Except for these bio-
+emical abnormalities, we could not discrimi-
+te the phenotypic difference in patients accord-
+to mutations or NCC expression in renal
+sue. We also could not find a relation between
+e of mutation and NCC expression in tissues.
+is result might originate from the limits of this
+dy. First, the number of patients was too small
+establish meaningful discrimination. Second,
+r inclusion criteria were limited to only pa-
+nts who had typical clinical features of GS. In
+dition, only 2 of the 6 patients had a homozy-
+us mutation in this study. Patients with a
+mozygous mutation would be more suitable
+investigating the relationships between phe-
+type and a specific NCC mutation.
+
+cli
+of
+an
+uri
+typ
+tor
+stu
+co
+the
+for
+Al
+sh
+ch
+no
+co
+dia
+sis
+no
+olo
+inv
+ers
+Pr
+am
+NC
+gra
+to
+(da
+no
+he
+2A
+wa
+mi
+tiv
+ap
+uri
+Ur
+in
+fro
+tio
+wi
+a v
+ex
+du
+ve
+ex
+low
+zid
+wa
+su
+GS
+en
+tio
+dia
+dis
+tie
+tho
+ac
+Th
+po
+try
+err
+en
+uri
+bu
+ex
+lum
+GS
+ex
+ge
+be
+of
+mo
+us
+sar
+W
+Ma
+S
+Fou
+F
+1
+dis
+nes
+2
+ma
+alk
+Na
+3
+mo
+res
+101
+4
+of e
+85:
+5
+Ch
+dro
+Re
+Joo et al772The differential diagnosis of GS depends on
+nical features of the patient, a detailed account
+the patient’s history, measurement of serum
+d urine electrolytes, detection of diuretics in
+ne, and clearance studies. However, pheno-
+e variability, patient denial of medication his-
+y, and the cumbersomeness of a clearance
+dy sometimes make the differential diagnosis
+nfusing. Despite its physiological background,
+re are no standard protocol and cutoff values
+abnormal results in a renal clearance study.
+though the patient with surreptitious vomiting
+owed a different pattern of response to hydro-
+lorothiazide administration, the difference was
+t impressive enough to interpret the result
+nfidently. A simple, noninvasive, and reliable
+gnostic method is required.
+Although it recently was suggested that analy-
+of urinary membrane fractions might provide
+ninvasive information about the pathophysi-
+gical state of renal tubules,
+13,14
+no report
+estigating abnormalities in urinary transport-
+in a specific patient population was made.
+eliminary studies were done to determine the
+ount of loading samples sufficient for clear
+C bands in healthy volunteers. Two milli-
+ms of urine creatinine equivalent was enough
+show NCC bands in all healthy volunteers
+ta not shown), and the presence of NCC in
+rmal urine was ascertained in urine from
+althy volunteers by means of immunoblot (Fig
+). Bands in the higher molecular-weight range
+s believed to represent NCCmultimers, which
+ght be formed through the formation of mul-
+esicular bodies, subsequent fusion with the
+ical plasma membrane, and excreted into the
+nary space by the process of exocytosis.
+14
+inary NCC excretion was markedly decreased
+patients with GS, which discriminates patients
+m healthy controls and a patient with surrepti-
+us vomiting. Urine AQP2 signals in patients
+th GS could represent that all patients were in
+olume-depleted condition, and at least AQP2
+pression is regulated normally in the collecting
+ct.
+16
+Urinary NCC band density in patient G was
+ry intense. Considering that urinary chloride
+cretion was low, minimal urine osmolality was
+, DFCR was decreased after hydrochlorothia-
+e administration, and no mutation of SLC12A3
+s detected, a diagnosis other than GS wasspected. However, phenotype variability of
+, the patient’s denial of vomiting, no refer-
+ce values for the clearance study, and limita-
+n in the method of mutation analysis made the
+gnosis confusing. Urinary NCC was the most
+tinguishing finding that discriminated this pa-
+nt from the other subjects.
+Results of urine immunoblot were similar to
+se of immunohistochemistry, but did not ex-
+tly represent NCC expression in the DCT.
+ese discrepancies might be caused by: (1) the
+ssibility that analysis of immunohistochemis-
+on biopsy samples is subject to technical
+ors and observational variations, and (2) differ-
+t sensitivities of the 2 tests. We confirmed that
+nary NCC excretion was markedly decreased,
+t the regulatory mechanism for its urinary
+cretion is yet to be investigated.
+In conclusion, NCC protein expression in the
+inal surface of the DCT from patients with
+was decreased, and no relation between NCC
+pression and type of mutation in the SLC12A3
+ne was found. Analysis of urinary NCC might
+a promising tool for the differential diagnosis
+GS. Additional studies with a large number of
+re defined patients to evaluate the clinical
+efulness of urinary NCC excretion are neces-
+y.
+ACKNOWLEDGEMENTS
+e thank Dr Gheun-Ho Kim for technical advice and Dr
+rk A. Knepper for donation of antibodies.
+upport: This work was supported by Korea Research
+ndation Grant KRF-2003-042-E00069.
+inancial Disclosure: None.
+REFERENCES
+. Gitelman HJ, Graham JB, Welt LG: A new familial
+order characterized by hypokalemia and hypomag-
+emia. Trans Assoc Am Physicians 79:221-235, 1966
+. Simon DB, Nelson-Williams C, Bia MJ, et al: Gitel-
+n’s variant of Bartter’s syndrome, inherited hypokalemic
+alosis, is caused by mutations in the thiazide-sensitive
+-Cl cotransporter. Nat Genet 12:24-30, 1996
+. Mastroianni N, Bettinelli A, Bianchetti M, et al: Novel
+lecular variants of the Na-Cl cotransporter gene are
+ponsible for Gitelman syndrome. Am J Hum Genet 59:
+9-1026, 1996
+. Gamba G: Molecular physiology and pathophysiology
+lectroneutral cation-chloride cotransporters. Physiol Rev
+423-493, 2005
+. Tsukamoto T, Kobayashi T, Kawamoto K, Fukase M,
+ihara K: Possible discriminations of Gitelman’s syn-
+me from Bartter’s syndrome by renal clearance study:
+port of two cases. Am J Kidney Dis 25:637-641, 1995
+
+6. Yahata K, Tanaka I, Kotani M, et al: Identification of a
+novel R642C mutation in Na/Cl cotransporter with Gitel-
+man’s syndrome. Am J Kidney Dis 34:845-853, 1999
+7. Monkawa T, Kurihara I, Kobayashi K, et al: Novel
+mutations in thiazide-sensitive Na-Cl cotransporter gene of
+patients with Gitelman’s syndrome. J Am Soc Nephrol
+11:65-70, 2000
+8. Zelikovic I, Szargel R, Hawash A, et al: A novel
+mutation in the chloride channel gene, CLCNKB, as a cause
+of Gitelman and Bartter syndromes. Kidney Int 63:24-32,
+2003
+9. Lin SH, Cheng NL, Hsu YJ, Halperin ML: Intrafamil-
+ial phenotypic variability in patients with Gitelman syn-
+drome having the same mutations in their thiazide-sensitive
+sodium/chloride cotransporter. Am J Kidney Dis 43:304-
+312, 2004
+10. Peters M, Jeck N, Reinalter S, et al: Clinical presenta-
+tion of genetically defined patients with hypokalemic salt-
+losing tubulopathies. Am J Med 112:183-190, 2002
+11. Pachulski RT, Lopez F, Sharaf R: Gitelman’s not-so-
+ben
+1
+Wi
+of m
+imp
+Soc
+1
+Lla
+por
+200
+1
+pro
+Ac
+1
+cor
+tran
+1
+of o
+aqu
+1
+dis
+ban
+hereditary renal tubular-pituitary syndrome? Pediatr Res
+46:232-238, 1999
+18. Coto E, Rodriguez J, Jeck N, et al: A new mutation
+(intron 9  1G T) in the SLC12A3 gene is linked to
+Gitelman syndrome in Gypsies. Kidney Int 65:25-29, 2004
+19. Sabath E, Meade P, Berkman J, et al: Pathophysiol-
+ogy of functional mutations of the thiazide-sensitive Na-Cl
+cotransporter in Gitelman disease. Am J Physiol Renal
+Physiol 287:F195-F203, 2004
+20. Kunchaparty S, Palcso M, Berkman J, et al: Defective
+processing and expression of thiazide-sensitive Na-Cl co-
+transporter as a cause of Gitelman’s syndrome.Am J Physiol
+277: F643-F649, 1999
+21. Ng PC, Henikoff S: SIFT: Predicting amino acid
+changes that affect protein function. Nucleic Acids Res
+31:3812-3814, 2003
+22. Ramensky V, Bork P, Sunyaev S: Human non-
+synonymous SNPs: Server and survey. Nucleic Acids Res
+30:3894-3900, 2002
+23. Naraba H, Kokubo Y, Tomoike H, Iwai N: Functional
+con
+nes
+2
+mu
+in p
+iza
+199
+2
+of
+the
+syn
+2
+Na
+the
+tion
+2
+tion
+syn
+2
+bed
+diu
+813
+Urinary NCC in Gitelman Syndrome 773ign syndrome. N Engl J Med 353:850-851, 2005
+2. De Jong JC, Van Der Vliet WA, Van Den Heuvel LP,
+llems PH, Knoers NV, Bindels RJ: Functional expression
+utations in the human NaCl cotransporter: Evidence for
+aired routing mechanisms in Gitelman’s syndrome. JAm
+Nephrol 13:1442-1448, 2002
+3. McKee JA, Kumar S, Ecelbarger CA, Fernandez-
+ma P, Terris J, Knepper MA: Detection of Na( ) trans-
+ter proteins in urine. J Am Soc Nephrol 11:2128-2132,
+0
+4. Pisitkun T, Shen RF, Knepper MA: Identification and
+teomic profiling of exosomes in human urine. Proc Natl
+ad Sci U SA 101:13368-13373, 2004
+5. Biner HL, Arpin-Bott MP, Loffing J, et al: Human
+tical distal nephron: Distribution of electrolyte and water
+sport pathways. J Am Soc Nephrol 13:836-847, 2002
+6. Joo KW, Jeon US, Kim GH, et al: Antidiuretic action
+xytocin is associated with increased urinary excretion of
+aporin-2. Nephrol Dial Transplant 19:2480-2486, 2004
+7. Bettinelli A, Rusconi R, Ciarmatori S, et al: Gitelman
+ease associated with growth hormone deficiency, distur-
+ces in vasopressin secretion and empty sella: A newfirmation of Gitelman’s syndrome mutations in Japa-
+e. Hypertens Res 28:805-809, 2005
+4. Lemmink HH, Knoers NV, Karolyi L, et al: Novel
+tations in the thiazide-sensitive NaCl cotransporter gene
+atients with Gitelman syndrome with predominant local-
+tion to the C-terminal domain. Kidney Int 54:720-730,
+8
+5. Syren ML, Tedeschi S, Cesareo L, et al: Identification
+fifteen novel mutations in the SLC12A3 gene encoding
+Na-Cl co-transporter in Italian patients with Gitelman
+drome. Hum Mutat 20:1-5, 2002
+6. Pacheco-Alvarez D, Cristobal PS, Meade P, et al: The
+ 
+:Cl
+ 
+cotransporter is activated and phosphorylated at
+amino-terminal domain upon intracellular chloride deple-
+. J Biol Chem 281:28755-28763, 2006
+7. Ring T, Knoers N, Oh MS, Halperin ML: Reevalua-
+of the criteria for the clinical diagnosis of Gitelman
+drome. Pediatr Nephrol 17:612-616, 2002
+8. Jang HR, Lee JW, Oh YK, et al: From bench to
+side: Diagnosis of Gitelman’s syndrome-defect of so-
+m-chloride cotransporter in renal tissue. Kidney Int 70:
+-817, 2006
+
