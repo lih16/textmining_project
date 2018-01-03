@@ -16,6 +16,8 @@ import java.util.regex.Pattern;
  * @author joerghakenberg
  *
  */
+
+
 public class PostProcessPdfToText {
 
 	public static String replaceSpecialChars (String line) {
@@ -88,21 +90,30 @@ public class PostProcessPdfToText {
 				//if (line.equalsIgnoreCase("References") || line.toLowerCase().startsWith("acknowledgment")) break;
 				m = p_multiline_heading.matcher(line);
 				if (m.matches()) continue;
-				//line = line.replaceAll("(?ms)[\r\n]+", "");
+				
+				// Meng remove '//'
+				line = line.replaceAll("(?ms)[\r\n]+", "");
+				
+				
 				if (line.equals("`")) continue;
 				if (line.matches("[\r\n\t ]+")) continue;
 				if (line.trim().length() == 0) continue;
 				
-				line = replaceSpecialChars(line);
+				// Modification by Meng, declspec replaceSpecialChars  
+				//line = replaceSpecialChars(line);
 				
 				//
+				// Modification by Meng, declspec the following five replaceAll functions.
 				line = line.replaceAll("\\t", " ");
 				line = line.replaceAll("\\s\\s+", " ");
 				line = line.replaceAll("\\?", "_");
 				line = line.replaceAll("\\*", "_");
 				line = line.replaceAll("\\+", "_");
 				
-				//if (line.matches("(?ms)[\r\n\t ]*[A-Z][a-z]+[\r\n\t ]*")) continue;
+				//Meng remove '//'
+				if (line.matches("(?ms)[\r\n\t ]*[A-Z][a-z]+[\r\n\t ]*")) continue;
+				
+				
 				if (line.matches("\\d+(\\-\\d+)?")) continue;
 				
 				// remove references from the end of a sentence
