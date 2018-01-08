@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+    <entry key="database.user">lih16</entry>
+    <entry key="database.password"></entry>
+    <entry key="database.name">var_Normalization_varImpact</entry> 
+    <entry key="database.host">jdbc:mysql://db2.mgmt.hpc.mssm.edu:3306/</entry>
+    <entry key="database.driver">com.mysql.jdbc.Driver</entry>
+
+    <!-- Normalization specific tables -->
+    <entry key="database.hgvs_view">var_varImpact_2017.seth_hgvs</entry>
+    <entry key="database.PSM">var_varImpact_2017.PSM</entry>
+    <entry key="database.uniprot">var_varImpact_2017.uniprot</entry>
+    <entry key="database.transcript">var_varImpact_2017.seth_transcripts</entry>
+
+
+    <entry key="database.geneTable">var_varImpact_2017.gnat_genes</entry>
+    <entry key="database.gene2pubmed">var_Normalization_varImpact.TEMP_combined_HGMD_pubmed</entry> 
+    
+<!--    <entry key="database.SNPTable">mutations</entry> -->
+
+</properties>
